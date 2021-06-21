@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 ,CCTV-5_HD
 http://107.148.254.201:13164/play.m3u8?token=kTC7jXz5%2Fi%2BDb94tU3%2FaiA9n&tid=ys&id=5
-#EXTINF:-1 ,咪咕CCTV-5+_HD
+#EXTINF:-1 ,CCTV-5+_HD
 http://107.148.254.201:13164/play.m3u8?token=vc%2BWP06K%2BqHH8xHZp4Yx%2FNo7&tid=ys&id=6
 #EXTINF:-1 ,广东体育
 http://107.148.254.201:13164/play.m3u8?token=jSOdLxKtqQ4cnVpGriP1lv8Z&tid=ty&id=6
