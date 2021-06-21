@@ -7,5 +7,5 @@ http://111.12.102.68:6610/PLTV/77777777/224/3221225621/index.m3u8?
 http://111.12.102.68:6610/PLTV/77777777/224/3221225712/index.m3u8?
 #EXTINF:-1 ,CCTV-5+
 http://117.169.124.46:6410/ysten-businessmobile/live/hdcctv05plus/1.m3u8
-#EXT-X-STREAM-INF:PROGRAM-ID=1, BANDWIDTH=3597000
-http://pullhls3948069e.live.126.net/live/ad8d8bc11494aa9163844d8d537302dc/playlist.m3u8?wsSession=bcca203b3ea06a3b565926ef-162427348137016&wsIPSercert=fc412eff9e5674a66cc4cbc09faf6103&wsMonitor=0
+#EXTINF:-1 ,广东体育
+http://107.148.254.201:13164/play.m3u8?token=jSOdLxKtqQ4cnVpGriP1lv8Z&tid=ty&id=6
