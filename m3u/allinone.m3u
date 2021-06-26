@@ -1,15 +1,7 @@
 #EXTM3U
 #EXTINF:-1 ,CCTV-5_HD
-http://107.148.254.201:13164/play.m3u8?token=kTC7jXz5%2Fi%2BDb94tU3%2FaiA9n&tid=ys&id=5
+http://pullhls3948069e.live.126.net/live/238c1ec9ceb9a95273d707ab897c7ea6/playlist.m3u8
 #EXTINF:-1 ,CCTV-5+_HD
-http://107.148.254.201:13164/play.m3u8?token=vc%2BWP06K%2BqHH8xHZp4Yx%2FNo7&tid=ys&id=6
+http://pullhls3948069e.live.126.net/live/4a5963f4af9ad0a9c70458b74a568f7c/playlist.m3u8
 #EXTINF:-1 ,广东体育
-http://107.148.254.201:13164/play.m3u8?token=jSOdLxKtqQ4cnVpGriP1lv8Z&tid=ty&id=6
-#EXTINF:-1 ,CCTV-5
-http://111.12.102.68:6610/PLTV/77777777/224/3221225516/index.m3u8?
-#EXTINF:-1 ,CCTV-5+
-http://111.12.102.68:6610/PLTV/77777777/224/3221225621/index.m3u8?
-#EXTINF:-1 ,CCTV-5+
-http://111.12.102.68:6610/PLTV/77777777/224/3221225712/index.m3u8?
-#EXTINF:-1 ,CCTV-5+
-http://117.169.124.46:6410/ysten-businessmobile/live/hdcctv05plus/1.m3u8
+http://pullhls3948069e.live.126.net/live/4e067825a0d1f3ab1799460952c0f412/playlist.m3u8
