@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:-1 ,CCTV-5_HD
+#EXTINF:-1 ,CCTV-5
 http://pullhls3948069e.live.126.net/live/238c1ec9ceb9a95273d707ab897c7ea6/playlist.m3u8
-#EXTINF:-1 ,CCTV-5+_HD
+#EXTINF:-1 ,CCTV-5+
 http://pullhls3948069e.live.126.net/live/4a5963f4af9ad0a9c70458b74a568f7c/playlist.m3u8
 #EXTINF:-1 ,广东体育
 http://pullhls3948069e.live.126.net/live/4e067825a0d1f3ab1799460952c0f412/playlist.m3u8
